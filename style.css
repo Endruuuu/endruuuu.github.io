@@ -1,0 +1,20 @@
+h1 {
+	font-family: georgia;
+	color: #ffffff;
+}
+
+body {
+	background-color: lightgray;
+	background-image: url(gambar/black.jpeg);
+	background-position: top;
+	background-repeat: repeat-x;
+	background-size: 300px; 
+}
+
+ul {
+	font-family: arial;
+}
+
+p {
+	font-family: arial;
+}
