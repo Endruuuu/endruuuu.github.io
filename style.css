@@ -9,6 +9,11 @@ body {
 	background-position: top;
 	background-repeat: repeat-x;
 	background-size: 350px; 
+
+	background-image: url(gambar/black1.jpeg);
+	background-position: middle;
+	background-repeat: repeat-x;
+	background-size: 350px;
 }
 
 ul {
