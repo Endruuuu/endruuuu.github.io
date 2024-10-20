@@ -6,9 +6,9 @@ h1 {
 body {
 	background-color: lightgray;
 	background-image: url(gambar/black.jpeg);
-	background-position: top, middle;
+	background-position: top;
 	background-repeat: repeat-x;
-	background-size: 350px; 
+	background-size: 500px; 
 }
 
 ul {
