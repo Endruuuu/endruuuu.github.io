@@ -7,8 +7,8 @@ body {
 	background-color: lightgray;
 	background-image: url(gambar/black.jpeg);
 	background-position: top;
-	background-repeat: repeat-y;
-	background-size: 500px; 
+	background-repeat: repeat-x;
+	background-size: 350px; 
 }
 
 ul {
